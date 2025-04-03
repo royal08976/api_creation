@@ -1,50 +1,67 @@
 [
     {
-        "name":"iphone",
-        "price":156,
-        "featured":true,
-        "company":"apple"
+        "uid": "prod-001",
+        "title": "iPhone 14",
+        "description": "Latest Apple smartphone with A16 Bionic chip.",
+        "categoryUid": "cat-001",
+        "brand": "Apple",
+        "price": 999,
+        "stock": 50,
+        "rating": 4.5,
+        "sales": 1000,
+        "order": 500,
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTlTLBgRwq8rnYHLmCBPiWTKXedUa2UZrGuUofPS7JYJYQFK72ROzxsOv-Jnd2EMXtpyzGYOGnOi7higptmwni4xYxYD7VVi_byotYbMF2R5W9bu6aMkq5lCPZFG0aKUghFUkT4&usqp=CAc"
     },
-   
     {
-        "name":"iphone10",
-        "price":1565,
-        "featured":true,
-        "company":"apple"
+        "uid": "prod-002",
+        "title": "Samsung Galaxy S22",
+        "description": "Flagship Android smartphone with Snapdragon 8 Gen 1.",
+        "categoryUid": "cat-001",
+        "brand": "Samsung",
+        "price": 899,
+        "stock": 40,
+        "rating": 4.4,
+        "sales": 800,
+        "order": 400,
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQmSQgyFeYLuvUVA_l2Y4qJOkYzggf_aYYlaWk6sD2_qO8eCNKVIwezWzjagjikR5QZDzR-yLf6P2B8V616CguwdpnR56L-W17pJWubflnxRxfsWDGBRCwaG7KS&usqp=CAc"
     },
-
     {
-        "name":"watch",
-        "price":1600,
-        
-        "company":"apple"
+        "uid": "prod-003",
+        "title": "Dell Gaming Laptop",
+        "description": "High-performance gaming laptop with RTX 3070.",
+        "categoryUid": "cat-002",
+        "brand": "Dell",
+        "price": 1500,
+        "stock": 30,
+        "rating": 4.7,
+        "sales": 500,
+        "order": 200,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR6SOzDMuFfPNn-ZTVttmToeh5z55tEDcU0JhDQS7o9ZQ-7cnLbHDhqQC5d8cSuHs-1S4I3dkxOjPml9mjwPsEwz4B7bBOE6Q9CgPteEJUYiqod4Ldpe1XlJYGhkZwgJwnjEZFY&usqp=CAc"
     },
-
     {
-        "name":"watch10",
-        "price":1890,
-        
-        "company":"apple"
+        "uid": "prod-004",
+        "title": "Apple Watch Series 8",
+        "description": "Smartwatch with advanced health tracking features.",
+        "categoryUid": "cat-003",
+        "brand": "Apple",
+        "price": 399,
+        "stock": 70,
+        "rating": 4.6,
+        "sales": 1200,
+        "order": 600,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTDjxXTCqQXg72sU3y2PJxqyKdX5W4J9MWKlbWHpgVH_fR2-2RQnAG0b_G-88xx02ZdipwTQ8ec2vXi4q6uQ1KqeWkJ6NmhQGmfoPf6JVWZ_I3QBvU5Hhl12WFuUJC9J9cg&usqp=CAc"
     },
-
     {
-        "name":"s20",
-        "price":789,
-        "featured":true,
-        "company":"samsung"
-    },
-
-    {
-        "name":"dell gaming",
-        "price":890,
-    
-        "company":"dell"
-    },
-
-    {
-        "name":"mi20",
-        "price":897,
-        
-        "company":"mi"
+        "uid": "prod-005",
+        "title": "Mi Band 7",
+        "description": "Affordable fitness tracker with AMOLED display.",
+        "categoryUid": "cat-003",
+        "brand": "Mi",
+        "price": 59,
+        "stock": 100,
+        "rating": 4.2,
+        "sales": 2000,
+        "order": 1500,
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTAPNVWecov6DqBdX5E0DzqSRIabVEfTEfoYCcq6CIpC-4vs2QLGVgJMSDqmYZfXSZ8OyI6ae3e__PaMZeNx486ZNOro0Xp1kI13YRjKXs"
     }
 ]

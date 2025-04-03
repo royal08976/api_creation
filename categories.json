@@ -1,0 +1,18 @@
+[
+    {
+        "uid": "cat-001",
+        "name": "Smartphones"
+    },
+    {
+        "uid": "cat-002",
+        "name": "Laptops"
+    },
+    {
+        "uid": "cat-003",
+        "name": "Watches"
+    },
+    {
+        "uid": "cat-004",
+        "name": "Accessories"
+    }
+]
